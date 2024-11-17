@@ -3,7 +3,7 @@ This app is on my journey to learn flutter and especially Bloc And Cubit.
 I applied What I learn in Eng/Omar Ahmed [Flutter BLoC arabic](https://youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB&si=5a36y9uL6v4X-i9I) course 
 
 ## Demo
-![](rickAndMorty-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/yoyo3257/Rick-Morty-Flutter-App/blob/main/rickAndMorty-ezgif.com-video-to-gif-converter.gif)
 
 ## Color Reference
 
@@ -15,12 +15,14 @@ I applied What I learn in Eng/Omar Ahmed [Flutter BLoC arabic](https://youtube.c
 
 ## Screenshots
 **Home Page:** 
-![demo](demo2.png)
+<img src="https://github.com/yoyo3257/Rick-Morty-Flutter-App/blob/main/demo2.png" width=50% height=50%>
+
 **Details Page:**
-![demo](details.png)
+<img src="https://github.com/yoyo3257/Rick-Morty-Flutter-App/blob/main/details.png" width=50% height=50%>
+
 **Search Page:**
-![demo](search.png)
-![demo](search2.png)
+<img src="https://github.com/yoyo3257/Rick-Morty-Flutter-App/blob/main/search.png" width=50% height=50%> <img src="https://github.com/yoyo3257/Rick-Morty-Flutter-App/blob/main/search2.png" width=50% height=50%>
+
 
 
 ## 🔗 Links
