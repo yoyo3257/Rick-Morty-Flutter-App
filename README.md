@@ -1,17 +1,34 @@
-# blocapp
+# blocapp: Rick&Morty Characters App.
+This app is on my journey to learn flutter and especially Bloc And Cubit.
+I applied What I learn in Eng/Omar Ahmed [Flutter BLoC arabic](https://youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB&si=5a36y9uL6v4X-i9I) course 
 
-A new Flutter project.
+## Demo
+![](rickAndMorty-ezgif.com-video-to-gif-converter.gif)
 
-## Getting Started
+## Color Reference
 
-This project is a starting point for a Flutter application.
+| Color | Hex                                                                |
+|-------| ------------------------------------------------------------------ |
+| Green |  #13b1c6 |
+| Blue  |  #2c474f |
+| White |  #f7f7f5 |
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+**Home Page:** 
+![demo](demo2.png)
+**Details Page:**
+![demo](details.png)
+**Search Page:**
+![demo](search.png)
+![demo](search2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yoyo3257.github.io/protofolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-hany-750184235/)
+
+## Acknowledgements
+
+- [Eng Omar Ahmed Channel](https://www.youtube.com/@OmarAhmedx14)
+- [Bloc course](https://youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB&si=GCKux4tXcOuRoMvl)
 "# Rick-Morty-Flutter-App" 
