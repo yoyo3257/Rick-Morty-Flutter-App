@@ -6,6 +6,7 @@ I applied What I learn in Eng/Omar Ahmed [Flutter BLoC arabic](https://youtube.c
 
 ![](https://github.com/yoyo3257/Rick-Morty-Flutter-App/blob/main/rickAndMorty-ezgif.com-video-to-gif-converter.gif)
 
+<img src="https://github.com/yoyo3257/Rick-Morty-Flutter-App/blob/main/rickAndMorty-ezgif.com-video-to-gif-converter.gif" width=25% height=25%>
 ## Color Reference
 
 | Color | Hex                                                                |
